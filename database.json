@@ -1,0 +1,248 @@
+{
+  "storeTypes" : {
+    "-KWQB_tdb0eo7Yi1nGiN" : "Thaise",
+    "-KWQB_teEknFgOyDCHwt" : "Japanese",
+    "-KWQB_tfnDjrEDg43mgL" : "Chinese",
+    "-KWQB_tgpuESEvIYxwWX" : "Moroccan",
+    "-KWQB_thdCowmYpxARVf" : "Russian",
+    "-KWQB_thdCowmYpxARVg" : "Arab",
+    "-KWQB_tiacSQuHqE1jxb" : "Indian",
+    "-KY9Hyl_X7r4p2BFLd9Z" : "Asian",
+    "-KY9I26Ej9EqC2l_Y1Bn" : "Indonesian",
+    "-KZ8oBgDkmcmqnxBjyT2" : "Korean",
+    "-KZ8tt283ezRRQM4W1Xb" : "Spanish",
+    "-KZ975mQCRMxS7gzPYP4" : "Greek",
+    "-KZ97c2xouF_mQUAojg-" : "Turkish",
+    "-Kbe0rIn4ejjlIj7n8a-" : "Italian"
+  },
+  "stores" : {
+    "-KWV1hj3IkCJexHYSicC" : {
+      "address" : "Kinkerstraat 298, 1053 GC Amsterdam",
+      "description" : "Asian grocery store",
+      "email" : "",
+      "foursquare" : "https://foursquare.com/v/hong-kong-superstore/5070211be4b06e5e7164217b",
+      "hours" : {
+        "fri" : "10AM-6PM",
+        "mon" : "12-6PM",
+        "sat" : "10AM-5PM",
+        "sun" : "Closed",
+        "thu" : "10AM-7PM",
+        "tue" : "10AM-6PM",
+        "wed" : "10AM-6PM"
+      },
+      "keywords" : "",
+      "latLng" : {
+        "lat" : 52.3651689,
+        "lng" : 4.863656
+      },
+      "telephone" : "+31203343341",
+      "title" : "Hong Kong Superstore",
+      "type" : "Asian",
+      "website" : ""
+    },
+    "-KWV1hj9g6TdstQspnfz" : {
+      "address" : "Ferdinand Bolstraat 74, 1072 LM Amsterdam",
+      "description" : "Authentic Indonesian and Asian products.",
+      "email" : "info@tokoramee.com",
+      "foursquare" : "https://foursquare.com/v/toko-ramee/4b3a32e2f964a5202d6225e3",
+      "hours" : {
+        "fri" : "10AM-6:30PM",
+        "mon" : "Closed",
+        "sat" : "10AM-6PM",
+        "sun" : "Closed",
+        "thu" : "10AM-6:30PM",
+        "tue" : "10AM-6:30PM",
+        "wed" : "10AM-6:30PM"
+      },
+      "keywords" : "",
+      "latLng" : {
+        "lat" : 52.3539731,
+        "lng" : 4.8886703
+      },
+      "telephone" : "+31206622025",
+      "title" : "Toko Ramee",
+      "type" : "Asian, Indonesian",
+      "website" : "http://tokoramee.com/"
+    },
+    "-KZC4gi1arelp2Zvsu86" : {
+      "address" : "Gelderlandplein 187, 1082 LW Amsterdam",
+      "description" : "Japanese & Korean food market",
+      "email" : "",
+      "foursquare" : "https://foursquare.com/v/shilla/4a27db37f964a5209f921fe3",
+      "hours" : {
+        "fri" : "9:30AM-7PM",
+        "mon" : "12-7PM",
+        "sat" : "9:30AM-6PM",
+        "sun" : "12-5PM",
+        "thu" : "9:30AM-7PM",
+        "tue" : "9:30AM-7PM",
+        "wed" : "9:30AM-7PM"
+      },
+      "keywords" : "",
+      "latLng" : {
+        "lat" : 52.33112,
+        "lng" : 4.876215
+      },
+      "sender email" : "",
+      "sender name" : "",
+      "telephone" : "+31206428423",
+      "title" : "Shilla",
+      "type" : "Japanese, Korean, Asian",
+      "website" : "http://www.gelderlandplein.nl/shops-restaurants/shops/groceries/shilla/?lang=en"
+    },
+    "-KZCCX364YULGd0219us" : {
+      "address" : "Vijzelstraat 87, 1017 Amsterdam",
+      "description" : "Russian supermarket",
+      "email" : "info@priwetrossia.nl",
+      "foursquare" : "https://foursquare.com/v/priwet-russische-supermarkt/4ec80010e5fa232a75cb6734",
+      "hours" : {
+        "fri" : "10AM-10PM",
+        "mon" : "10AM-10PM",
+        "sat" : "10AM-10PM",
+        "sun" : "10AM-10PM",
+        "thu" : "10AM-10PM",
+        "tue" : "10AM-10PM",
+        "wed" : "10AM-10PM"
+      },
+      "keywords" : "",
+      "latLng" : {
+        "lat" : 52.36345,
+        "lng" : 4.892482
+      },
+      "sender email" : "",
+      "sender name" : "",
+      "telephone" : "+31643282788, +31202236685",
+      "title" : "Priwet Rossia",
+      "type" : "Russian",
+      "website" : "http://www.priwetrossia.nl/index.php"
+    },
+    "-KZCEeYXdPTb3RgI3q8o" : {
+      "address" : "Haarlemmerstraat 93, 1013 AG Amsterdam",
+      "description" : "Ibericus brings the famous delicacies of the Iberian peninsula directly to the Netherlands!",
+      "email" : "info@ibericus.nl",
+      "foursquare" : "https://foursquare.com/v/ibericus/504272e2183f6159b95afb8b",
+      "hours" : {
+        "fri" : "10AM-7:45PM",
+        "mon" : "10AM-7:45PM",
+        "sat" : "10AM-7:45PM",
+        "sun" : "10AM-7:45PM",
+        "thu" : "10AM-7:45PM",
+        "tue" : "10AM-7:45PM",
+        "wed" : "10AM-7:45PM"
+      },
+      "keywords" : "",
+      "latLng" : {
+        "lat" : 52.380586,
+        "lng" : 4.890913
+      },
+      "sender email" : "",
+      "sender name" : "",
+      "telephone" : "+31202236573",
+      "title" : "Ibericus Amsterdam",
+      "type" : "Spanish",
+      "website" : "https://www.facebook.com/pg/IbericusAmsterdam/about/"
+    },
+    "-KZXOYUHrMstuK_80vvp" : {
+      "address" : "Nickeriestraat 27, 1058 VV Amsterdam",
+      "description" : "Russian food & drinks",
+      "email" : "",
+      "foursquare" : "https://foursquare.com/v/minimix-amsterdam/4b769767f964a52077532ee3",
+      "hours" : {
+        "fri" : "10AM-8PM",
+        "mon" : "Closed",
+        "sat" : "10AM-6PM",
+        "sun" : "10AM-6PM",
+        "thu" : "10AM-8PM",
+        "tue" : "10AM-8PM",
+        "wed" : "10AM-8PM"
+      },
+      "keywords" : "",
+      "latLng" : {
+        "lat" : 52.362776,
+        "lng" : 4.854122
+      },
+      "sender email" : "artem.tyurin@gmail.com",
+      "sender name" : "Artem Tyurin",
+      "telephone" : "+31204890581",
+      "title" : "CCCP Amsterdam",
+      "type" : "Russian",
+      "website" : "http://minimixamsterdam.com/nl/"
+    },
+    "-KZXPnLhRS4-FGsIpjKB" : {
+      "address" : "Stormsteeg 9, 1012 BD Amsterdam",
+      "description" : "",
+      "email" : "info@dunyong.com, buying@dunyong.com",
+      "foursquare" : "https://foursquare.com/v/toko-dun-yong/4a70af0bf964a52032d81fe3",
+      "hours" : {
+        "fri" : "9AM-7PM",
+        "mon" : "9AM-7PM",
+        "sat" : "9AM-6PM",
+        "sun" : "12AM-6PM",
+        "thu" : "9AM-7PM",
+        "tue" : "9AM-7PM",
+        "wed" : "9AM-7PM"
+      },
+      "keywords" : "",
+      "latLng" : {
+        "lat" : 52.374356,
+        "lng" : 4.900887
+      },
+      "sender email" : "artem.tyurin@gmail.com",
+      "sender name" : "Artem Tyurin",
+      "telephone" : "+31202617689",
+      "title" : "Dun Yong",
+      "type" : "Chinese, Thaise, Asian",
+      "website" : "http://www.dunyong.com/"
+    },
+    "-Kbe1BfZfoArpxcwjYln" : {
+      "address" : "Westerstraat 77H, 1015 LW Amsterdam",
+      "description" : "All products and ingredients here are “pure, rich and sooo Italian”.",
+      "email" : "info@alninen.com",
+      "hours" : {
+        "fri" : "11AM-20PM",
+        "mon" : "11AM-20PM",
+        "sat" : "11AM-20PM",
+        "sun" : "Closed",
+        "thu" : "11AM-20PM",
+        "tue" : "11AM-20PM",
+        "wed" : "11AM-20PM"
+      },
+      "keywords" : "pasta, risotto, panini, pizza, pesto",
+      "latLng" : {
+        "lat" : 52.378457,
+        "lng" : 4.88452
+      },
+      "sender email" : "marizamj@gmail.com",
+      "sender name" : "Мари Замжицкая",
+      "telephone" : "+31202236568",
+      "title" : "Al Ninèn",
+      "type" : "Italian",
+      "website" : "http://alninen.com/"
+    },
+    "-Kbe2hHcB7RryUTNT01J" : {
+      "address" : "Scheldestraat 63, 1078 GH Amsterdam",
+      "description" : "",
+      "email" : "info@feduzzi.nl",
+      "hours" : {
+        "fri" : "10:30AM-19PM",
+        "mon" : "12-19PM",
+        "sat" : "10AM-18PM",
+        "sun" : "Closed",
+        "thu" : "10:30AM-19PM",
+        "tue" : "10:30AM-19PM",
+        "wed" : "10:30AM-19PM"
+      },
+      "keywords" : "",
+      "latLng" : {
+        "lat" : 52.345699,
+        "lng" : 4.891207
+      },
+      "sender email" : "marizamj@gmail.com",
+      "sender name" : "Мари Замжицкая",
+      "telephone" : "+31206646365",
+      "title" : "Feduzzi Mercato Italiano",
+      "type" : "Italian",
+      "website" : "http://www.feduzzi.nl/"
+    }
+  }
+}
