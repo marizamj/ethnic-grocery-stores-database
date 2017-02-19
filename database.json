@@ -71,9 +71,9 @@
       "foursquare" : "https://foursquare.com/v/shilla/4a27db37f964a5209f921fe3",
       "hours" : {
         "fri" : "9:30AM-7PM",
-        "mon" : "12-7PM",
+        "mon" : "12PM-7PM",
         "sat" : "9:30AM-6PM",
-        "sun" : "12-5PM",
+        "sun" : "12PM-5PM",
         "thu" : "9:30AM-7PM",
         "tue" : "9:30AM-7PM",
         "wed" : "9:30AM-7PM"
