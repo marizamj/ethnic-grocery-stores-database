@@ -130,7 +130,7 @@
         "tue" : "10AM-7:45PM",
         "wed" : "10AM-7:45PM"
       },
-      "keywords" : "",
+      "keywords" : "jamon, ham, iberico",
       "latLng" : {
         "lat" : 52.380586,
         "lng" : 4.890913
@@ -199,13 +199,13 @@
       "description" : "All products and ingredients here are “pure, rich and sooo Italian”.",
       "email" : "info@alninen.com",
       "hours" : {
-        "fri" : "11AM-20PM",
-        "mon" : "11AM-20PM",
-        "sat" : "11AM-20PM",
+        "fri" : "11AM-8PM",
+        "mon" : "11AM-8PM",
+        "sat" : "11AM-8PM",
         "sun" : "Closed",
-        "thu" : "11AM-20PM",
-        "tue" : "11AM-20PM",
-        "wed" : "11AM-20PM"
+        "thu" : "11AM-8PM",
+        "tue" : "11AM-8PM",
+        "wed" : "11AM-8PM"
       },
       "keywords" : "pasta, risotto, panini, pizza, pesto",
       "latLng" : {
@@ -224,13 +224,13 @@
       "description" : "",
       "email" : "info@feduzzi.nl",
       "hours" : {
-        "fri" : "10:30AM-19PM",
-        "mon" : "12-19PM",
-        "sat" : "10AM-18PM",
+        "fri" : "10:30AM-7PM",
+        "mon" : "12-7PM",
+        "sat" : "10AM-6PM",
         "sun" : "Closed",
-        "thu" : "10:30AM-19PM",
-        "tue" : "10:30AM-19PM",
-        "wed" : "10:30AM-19PM"
+        "thu" : "10:30AM-7PM",
+        "tue" : "10:30AM-7PM",
+        "wed" : "10:30AM-7PM"
       },
       "keywords" : "",
       "latLng" : {
